@@ -1,0 +1,2 @@
+# Study-Planner
+AI STUDY PLANNER USING PYTHON
